@@ -1,0 +1,28 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0%;
+    background-image: url(34.jpg);
+    background-size: cover;
+}
+
+.card{
+    background: #eaeaead0;
+    color: #000000d0;
+    padding: 4em;
+    border-radius: 40px;
+    width: 100%;
+    max-width: 440px;
+    margin: 3em;
+}
+
+.card:hover{
+     background-position: left bottom;
+
+    border: none;
+    box-shadow:11px 19px 33px black;
+}
+
+
